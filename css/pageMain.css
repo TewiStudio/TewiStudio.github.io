@@ -1,0 +1,35 @@
+#body_main_personalCard
+{
+    border-radius: 8px;
+    border: 1px solid #FFFFFF55;
+    background-color: #FFFFFF55;
+    width: 550px;
+    margin: 16px auto;
+	backdrop-filter: blur(45px) saturate(450%) contrast(60%);
+    box-shadow: 2px 2px 25px 15px rgba(0, 0, 0, 0.2);
+}
+
+#body_main_title
+{
+    text-align: center;
+    font-size: 24px;
+}
+
+#icon_container
+{
+    border-radius: 150px;
+    border: 1px solid #FFFFFF55;
+    background-color: #FFFFFF55;
+	backdrop-filter: blur(45px) saturate(450%) contrast(60%);
+    box-shadow: 2px 2px 25px 10px rgba(0, 0, 0, 0.2);
+    width: 150px;
+    padding: 24px;
+    margin: 24px auto;
+}
+
+#icon_img
+{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+}

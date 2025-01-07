@@ -1,0 +1,115 @@
+#body
+{
+    margin-bottom: 21;
+}
+
+#body p
+{
+    color: white;
+}
+
+#body h1
+{
+    color: white;
+}
+
+#body label
+{
+    color: white;
+}
+
+#background
+{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: -1; /* 设置深度为最底层，以便其它界面不被遮挡 */
+}
+
+#background_img
+{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.body_content_title
+{
+    text-align: left;
+    font-size: 32px;
+    margin-top: 16px;
+    margin-left: 16px;
+}
+
+#background_img_mass
+{
+    position: fixed;
+    background-color: #00000030;
+    width: calc(100%);
+    height: calc(100%);
+}
+
+#loading_container
+{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+	backdrop-filter: blur(45px) saturate(450%) contrast(60%);
+}
+
+#loading_container p
+{
+    position: relative;
+    color: white;
+    text-align: center;
+    top: 50%;
+    font-size: 24px;
+}
+
+#netease_player_container
+{
+    position: fixed;
+    right: 16px;
+    bottom: 37px;
+    border-radius: 8px;
+	backdrop-filter: blur(45px) saturate(450%) contrast(60%);
+    box-shadow: 2px 2px 25px 10px rgba(0, 0, 0, 0.2);
+}
+
+#netease_player
+{
+    margin: 0 0 0 16px;
+}
+
+#netease_player_container button
+{
+    transition: all;
+    transition-duration: 250ms;
+    position: absolute;
+    width: 20px;
+    height: 100%;
+    margin: 0;
+    padding: 0px;
+    border: 0px;
+    border-radius: 8;
+    background-color: transparent;
+}
+
+#netease_player_container button:hover
+{
+    background-color: #FFFFFF55;
+}
+
+#netease_player_container button:active
+{
+    background-color: #FFFFFF33;
+}
+
+#netease_player_container button img
+{
+    fill: white;
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+}

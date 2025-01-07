@@ -1,0 +1,43 @@
+#body_links_container
+{
+    padding: 16px;
+}
+
+#body_links_container iframe
+{
+    width: 100%;
+    height: 700px;
+    border-radius: 8px;
+    border: 1px solid #00000055;
+}
+
+#body_links_container button
+{
+    display: block;
+    transition-property: all;
+    transition-duration: 250ms;
+    transition-timing-function: ease-out;
+    font-size: 16px;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #FFFFFF55;
+    margin: 16px auto;
+    width: 80%;
+    background-color: #FFFFFF55;
+    backdrop-filter: blur(34px) saturate(450%) contrast(60%);
+    box-shadow: 2px 2px 25px 15px rgba(0, 0, 0, 0.2);
+    max-width: 1000px;
+}
+
+#body_links_container button:hover
+{
+    border: 1px solid #FFFFFF77;
+    background-color: #FFFFFFAA;
+}
+
+#body_links_container button:active
+{
+    border: 1px solid #FFFFFF33;
+    background-color: #FFFFFF55;
+}

@@ -1,0 +1,17 @@
+footer
+{
+    padding: 4px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin: auto;
+    background-color: #FFFFFF35;
+	backdrop-filter: blur(45px) saturate(450%) contrast(60%);
+}
+
+footer p
+{
+    margin: 0;
+    text-align: center;
+    color: white;
+}
