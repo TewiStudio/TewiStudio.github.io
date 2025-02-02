@@ -1,7 +1,29 @@
 {
-    "version": "0.4.8 Preview",
-    "versionF": "48.0",
-    "url": "https://github.com/zilongcn23/TewiMP-Release/releases/tag/v0.4.8-preview",
-    "ReleaseDate": "1738281600",
-    "ExtendMessage": null 
+    "stable":
+    {
+        "available": false,
+        "version": "0",
+        "versionF": "0.0",
+        "url": null,
+        "releaseDate": "0",
+        "extendMessage": null
+    },
+    "preview":
+    {
+        "available": true,
+        "version": "0.4.9",
+        "versionF": "49.0",
+        "url": "https://github.com/zilongcn23/TewiMP-Release/releases/tag/v0.4.8-preview",
+        "releaseDate": "1738281600",
+        "extendMessage": null
+    },
+    "alpha":
+    {
+        "available": false,
+        "version": "0",
+        "versionF": "0.0",
+        "url": null,
+        "releaseDate": "0",
+        "extendMessage": null
+    }
 }
