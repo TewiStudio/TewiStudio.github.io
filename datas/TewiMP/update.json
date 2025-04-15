@@ -17,6 +17,15 @@
         "releaseDate": "1739195225",
         "extendMessage": null
     },
+    "alpha":
+    {
+        "available": false,
+        "version": "0",
+        "versionF": "0.0",
+        "url": null,
+        "releaseDate": "0",
+        "extendMessage": null
+    },
     "beta":
     {
         "available": true,
