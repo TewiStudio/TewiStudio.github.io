@@ -29,10 +29,10 @@
     "beta":
     {
         "available": true,
-        "version": "0.0.1",
-        "versionF": "1.0",
-        "url": "https://github.com/TewiStudio/TewiMP/releases/tag/v0.0.1-beta",
-        "releaseDate": "1744627462",
+        "version": "0.0.2",
+        "versionF": "2.0",
+        "url": "https://github.com/TewiStudio/TewiMP/releases/tag/v0.0.2-beta",
+        "releaseDate": "1748602954",
         "extendMessage": null
     }
 }
