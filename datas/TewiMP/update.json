@@ -1,38 +1,26 @@
-{
-    "stable":
+[
     {
-        "available": false,
-        "version": "0",
-        "versionF": "0.0",
-        "url": null,
-        "releaseDate": "0",
-        "extendMessage": null
+        "SuffixType": 0,
+        "Available": false,
+        "Version": "0.0.0.0",
+        "Url": null,
+        "ReleaseTime": null,
+        "ExtendMessage": null
     },
-    "preview":
     {
-        "available": true,
-        "version": "0.4.9",
-        "versionF": "49.0",
-        "url": "https://github.com/TewiStudio/TewiMP-Release/releases/tag/v0.4.9-preview",
-        "releaseDate": "1739195225",
-        "extendMessage": null
+        "SuffixType": 1,
+        "Available": false,
+        "Version": "0.0.0.0",
+        "Url": null,
+        "ReleaseTime": null,
+        "ExtendMessage": null
     },
-    "alpha":
     {
-        "available": false,
-        "version": "0",
-        "versionF": "0.0",
-        "url": null,
-        "releaseDate": "0",
-        "extendMessage": null
-    },
-    "beta":
-    {
-        "available": true,
-        "version": "0.0.2",
-        "versionF": "2.0",
-        "url": "https://github.com/TewiStudio/TewiMP/releases/tag/v0.0.2-beta",
-        "releaseDate": "1748602954",
-        "extendMessage": null
+        "SuffixType": 2,
+        "Available": true,
+        "Version": "0.0.3.0",
+        "Url": "https://github.com/TewiStudio/TewiMP/releases/tag/v0.0.3-beta",
+        "ReleaseTime": "2025-06-11T18:40:22+08:00",
+        "ExtendMessage": null
     }
-}
+]
