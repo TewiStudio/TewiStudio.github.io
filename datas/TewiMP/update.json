@@ -18,9 +18,9 @@
     {
         "SuffixType": 2,
         "Available": true,
-        "Version": "0.0.3.0",
-        "Url": "https://github.com/TewiStudio/TewiMP/releases/tag/v0.0.3-beta",
-        "ReleaseTime": "2025-06-11T18:40:22+08:00",
+        "Version": "0.0.4.0",
+        "Url": "https://github.com/TewiStudio/TewiMP/releases/tag/v0.0.4-beta",
+        "ReleaseTime": "2025-07-12T00:00:00",
         "ExtendMessage": null
     }
 ]
