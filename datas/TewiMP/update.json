@@ -4,6 +4,7 @@
         "Available": false,
         "Version": "0.0.0.0",
         "Url": null,
+        "InstallUrl": null,
         "ReleaseTime": "1970-01-01T08:00:00+08:00",
         "ExtendMessage": null
     },
@@ -12,6 +13,7 @@
         "Available": false,
         "Version": "0.0.0.0",
         "Url": null,
+        "InstallUrl": null,
         "ReleaseTime": "1970-01-01T08:00:00+08:00",
         "ExtendMessage": null
     },
@@ -20,6 +22,7 @@
         "Available": true,
         "Version": "0.0.5.0",
         "Url": "https://github.com/TewiStudio/TewiMP/releases/tag/v0.0.5-preview",
+        "InstallUrl": "https://github.com/TewiStudio/TewiMP/releases/download/v0.0.5-preview/TewiMP_Setup.exe",
         "ReleaseTime": "2025-10-21T19:00:00",
         "ExtendMessage": null
     }
