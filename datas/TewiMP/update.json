@@ -21,9 +21,9 @@
         "SuffixType": 2,
         "Available": true,
         "Version": "0.0.5.0",
-        "Url": "https://github.com/TewiStudio/TewiMP/releases/tag/v0.0.5-preview",
-        "InstallUrl": "https://github.com/TewiStudio/TewiMP/releases/download/v0.0.5-preview/TewiMP_Setup.exe",
-        "ReleaseTime": "2025-10-21T19:00:00",
+        "Url": "https://github.com/TewiStudio/TewiMP/releases/tag/v0.0.6-beta",
+        "InstallUrl": "https://github.com/TewiStudio/TewiMP/releases/download/v0.0.6-beta/TewiMP_0.0.6_Beta_win_x64_Setup.exe",
+        "ReleaseTime": "2025-12-16T23:00:00",
         "ExtendMessage": null
     }
 ]
