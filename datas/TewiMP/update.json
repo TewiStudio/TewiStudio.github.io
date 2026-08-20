@@ -20,10 +20,10 @@
     {
         "SuffixType": 2,
         "Available": true,
-        "Version": "0.0.8.0",
-        "Url": "https://github.com/TewiStudio/TewiMP/releases/tag/v0.0.8-beta",
-        "InstallUrl": "https://github.com/TewiStudio/TewiMP/releases/download/v0.0.8-beta/TewiMP_0.0.8_Beta_win_x64_Setup.exe",
-        "ReleaseTime": "2026-08-18T14:00:00",
+        "Version": "0.0.8.1",
+        "Url": "https://github.com/TewiStudio/TewiMP/releases/tag/v0.0.8.1-beta",
+        "InstallUrl": "https://github.com/TewiStudio/TewiMP/releases/download/v0.0.8.1-beta/TewiMP_0.0.8.1_Beta_win_x64_Setup.exe",
+        "ReleaseTime": "2026-08-20T16:40:00",
         "ExtendMessage": null
     }
 ]
